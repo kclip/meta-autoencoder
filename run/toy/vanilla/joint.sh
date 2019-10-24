@@ -1,0 +1,1 @@
+python ../../../main.py --if_toy --num_epochs_meta_train 20000 --if_joint_training --path_for_common_dir 'toy/vanilla/joint/' --path_for_meta_trained_net '../../../saved_data/toy/nets/vanilla/joint/init_net'

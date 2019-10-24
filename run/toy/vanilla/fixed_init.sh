@@ -1,0 +1,1 @@
+python ../../../main.py --if_toy --num_epochs_meta_train 0 --path_for_common_dir 'toy/vanilla/fixed_init/'
