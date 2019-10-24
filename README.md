@@ -25,7 +25,7 @@ Tensorboard for pytorch is used for visualization (e.g., https://pytorch.org/doc
 
 ### Toy Example
     
--  In the 'run/toy' folder, _meta-learning_, _joint training, and fixed initialization_ schemes can be tested based on the pretrained two autoencoder architectures (vanilla autoencoder, autoencoder with RTN)
+-  In the 'run/toy' folder, _meta-learning_, _joint training,_ and _fixed initialization_ schemes can be tested based on the pretrained two autoencoder architectures (vanilla autoencoder, autoencoder with RTN)
     
    In order to train from scratch, remove '--path_for_meta_trained_net ' part.
     
@@ -35,7 +35,7 @@ Tensorboard for pytorch is used for visualization (e.g., https://pytorch.org/doc
 
 ### A More Realistic Scenario
     
--  In the 'run/realistic' folder, _meta-learning_, _joint training, and fixed initialization_ schemes can be tested based on the pretrained two autoencoder architectures (vanilla autoencoder, autoencoder with RTN)
+-  In the 'run/realistic' folder, _meta-learning_, _joint training,_ and _fixed initialization_ schemes can be tested based on the pretrained two autoencoder architectures (vanilla autoencoder, autoencoder with RTN)
     
    In order to train from scratch, remove '--path_for_meta_trained_net ' part.
     
