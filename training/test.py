@@ -30,7 +30,7 @@ def test_per_channel_per_snr(args, h, net_for_testtraining, test_snr, actual_cha
             pass
     accuracy = success_test / label_test.shape[0]
     if not if_val:
-        print('for snr: ', test_snr, 'acccuracy: ', 1 - accuracy)
+        print('for snr: ', test_snr, 'bler: ', 1 - accuracy)
 
     return 1 - accuracy
 
